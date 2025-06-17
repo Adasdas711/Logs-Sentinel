@@ -42,7 +42,7 @@ log-sentinel/
 
 1.  **Клонируйте репозиторий:**
     ```bash
-    git clone https://github.com/[ТВОЙ-НИКНЕЙМ-НА-GITHUB]/log-sentinel.git
+    git clone https://github.com/Adasdas711/Logs-Sentinel.git
     cd log-sentinel
     ```
 
@@ -53,7 +53,7 @@ log-sentinel/
 
 ### Запуск
 
-1.  **Настройте `config.yaml`** при необходимости (например, укажите путь к вашему лог-файлу).
+1.  **Настройте `config.yaml`** 
 2.  **Запустите анализ:**
     ```bash
     python3 main.py
