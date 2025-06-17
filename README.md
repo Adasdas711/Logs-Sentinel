@@ -43,7 +43,7 @@ log-sentinel/
 1.  **Клонируйте репозиторий:**
     ```bash
     git clone https://github.com/Adasdas711/Logs-Sentinel.git
-    cd log-sentinel
+    cd Logs-Sentinel
     ```
 
 2.  **Установите зависимости:**
